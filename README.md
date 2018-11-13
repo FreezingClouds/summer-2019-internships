@@ -15,7 +15,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Affirm](https://jobs.lever.co/affirm/ceb9ceef-cf1a-406d-b635-ba22470df7d6)  | CA | Present | |
 | [Airbnb](https://www.airbnb.com/careers/departments/position/1213896)  | CA | Present | |
 | [AllianceBernstein](https://alliancebernstein.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&inp1375=9947&opportunityid=9947)  | NY| Present | Dec 2019/June 2020 Graduation Date|
-| [Altera](https://www.ziprecruiter.com/c/Altera/Job/Undergraduate-Intern-2019-Software-Engineering/-in-Santa-Clara,CA?ojob=2051ed1e1aa182542a76afdc45f164f5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | CA | Present |  |
 | [Amazon](https://www.amazon.jobs/en/jobs/701508/software-development-engineer-internship-summer-2019-united-states)  | WA,  TX, CA, MA, CO, MI, VA, NY, WI, MN, AZ, OR | Present | Juniors and above only |
 | [Amazon Future Engineers](https://www.amazon.jobs/en/business_categories/university-recruiting)  | WA | Present  | For college freshmen and sophomores. 10 hours of cs-related community service required before application. |
 | [American Express](https://jobs.americanexpress.com/jobs/18012247?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | AZ, FL, NY | Present | Graduation date between December 2019 and June 2021 |
